@@ -1,1 +1,1 @@
-# Disney+ Clone (React JS + Firebase + Styled Components + Redux)
+Disney+ Clone (React JS + Firebase + Styled Components + Redux)
